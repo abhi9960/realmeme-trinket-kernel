@@ -44,7 +44,7 @@
 #ifdef VENDOR_EDIT
 /* wangchao@ODM.BSP.charge, 2019/12/6, Add for oppo_gauge*/
 #include <linux/rtc.h>
-#include "../../../../kernel/msm-4.14/drivers/power/oppo/oppo_gauge.h"
+#include "../../oppo/oppo_gauge.h"
 /* wangchao@ODM.BSP.charge, 2019/12/18, Add for battery proc devinfo*/
 #include <soc/oppo/device_info.h>
 #endif
